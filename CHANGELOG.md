@@ -7,6 +7,7 @@
 0. [ref][S] Remove CHANGELOG without extension 
 
 ### Issues 
+* Remove unnecessary file 
 ## v0.0.2 (08.07.2016 18:16) 
 
 ### Changes 
