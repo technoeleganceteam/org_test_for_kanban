@@ -1,3 +1,11 @@
+## v0.0.4 (11.07.2016 17:46) 
+
+### Changes 
+
+### Detailed changes 
+
+### Issues 
+
 ## v0.0.3 (11.07.2016 13:37) 
 
 ### Changes 
