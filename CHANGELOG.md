@@ -1,16 +1,16 @@
 ## v0.0.2 (08.07.2016 18:16) 
 
-### Изменения 
-* Add README.md ([#3](https://github.com/technoeleganceteam/org_test_for_kanban/pull/3) сделан пользователем [@gkopylov](https://github.com/gkopylov)) 
+### Changes 
+* Add README.md ([#3](https://github.com/technoeleganceteam/org_test_for_kanban/pull/3) by [@gkopylov](https://github.com/gkopylov)) 
 
-### Подробные изменения 
+### Detailed changes 
 0. [new][S] Added README.md for test project 
 
-### Задачи 
+### Issues 
 ## v0.0.1 (06.07.2016 17:55) 
 
-### Изменения 
+### Changes 
 
-### Подробные изменения 
+### Detailed changes 
 
-### Задачи 
+### Issues 
