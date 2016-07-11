@@ -1,3 +1,12 @@
+## v0.0.3 (11.07.2016 13:37) 
+
+### Changes 
+* Remove unnecessary file ([#5](https://github.com/technoeleganceteam/org_test_for_kanban/pull/5) by [@gkopylov](https://github.com/gkopylov)) 
+
+### Detailed changes 
+0. [ref][S] Remove CHANGELOG without extension 
+
+### Issues 
 ## v0.0.2 (08.07.2016 18:16) 
 
 ### Changes 
