@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v0.0.4 (11.07.2016 17:46) 
+## v0.0.4 (11.07.2016 17:46)
 
 ### Changes
 
@@ -8,7 +8,7 @@
 
 ### Issues
 
-## v0.0.3 (11.07.2016 13:37) 
+## v0.0.3 (11.07.2016 13:37)
 
 ### Changes
 
@@ -22,7 +22,7 @@
 
 * Remove unnecessary file ([#4](https://github.com/technoeleganceteam/org_test_for_kanban/issues/4))
 
-## v0.0.2 (08.07.2016 18:16) 
+## v0.0.2 (08.07.2016 18:16)
 
 ### Changes
 
@@ -34,7 +34,7 @@
 
 ### Issues
 
-## v0.0.1 (06.07.2016 17:55) 
+## v0.0.1 (06.07.2016 17:55)
 
 ### Changes
 
