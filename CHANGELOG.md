@@ -16,7 +16,7 @@
 
 ### Detailed changes
 
-0. [ref][S] Remove CHANGELOG without extension
+1. [ref][S] Remove CHANGELOG without extension
 
 ### Issues
 
@@ -30,7 +30,7 @@
 
 ### Detailed changes
 
-0. [new][S] Added README.md for test project
+1. [new][S] Added README.md for test project
 
 ### Issues
 
