@@ -12,11 +12,11 @@
 
 ### Changes
 
-* Remove unnecessary file ([#5](https://github.com/technoeleganceteam/org_test_for_kanban/pull/5) by [@gkopylov](https://github.com/gkopylov)) 
+* Remove unnecessary file ([#5](https://github.com/technoeleganceteam/org_test_for_kanban/pull/5) by [@gkopylov](https://github.com/gkopylov))
 
 ### Detailed changes
 
-0. [ref][S] Remove CHANGELOG without extension 
+0. [ref][S] Remove CHANGELOG without extension
 
 ### Issues
 
@@ -26,11 +26,11 @@
 
 ### Changes
 
-* Add README.md ([#3](https://github.com/technoeleganceteam/org_test_for_kanban/pull/3) by [@gkopylov](https://github.com/gkopylov)) 
+* Add README.md ([#3](https://github.com/technoeleganceteam/org_test_for_kanban/pull/3) by [@gkopylov](https://github.com/gkopylov))
 
 ### Detailed changes
 
-0. [new][S] Added README.md for test project 
+0. [new][S] Added README.md for test project
 
 ### Issues
 
