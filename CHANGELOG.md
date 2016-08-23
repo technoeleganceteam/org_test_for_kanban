@@ -5,6 +5,7 @@
 ### Changes
 
 ### Detailed changes
+
 ### Issues
 
 ## v0.0.3 (11.07.2016 13:37)
@@ -16,6 +17,7 @@
 ### Detailed changes
 
 1. [ref][S] Remove CHANGELOG without extension
+
 ### Issues
 
 * Remove unnecessary file ([#4](https://github.com/technoeleganceteam/org_test_for_kanban/issues/4))
@@ -29,6 +31,7 @@
 ### Detailed changes
 
 1. [new][S] Added README.md for test project
+
 ### Issues
 
 ## v0.0.1 (06.07.2016 17:55)
@@ -36,4 +39,5 @@
 ### Changes
 
 ### Detailed changes
+
 ### Issues
